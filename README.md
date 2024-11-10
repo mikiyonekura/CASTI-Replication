@@ -1,5 +1,6 @@
 # CASTI
-This repository is the replication package including the source code and the datasets.
+This repository is the replication package including the source code and the datasets of 'Leveraging Context Information for Self-Admitted
+Technical Debt Detection(2024)'.
 
 ## Repository Details
 ```

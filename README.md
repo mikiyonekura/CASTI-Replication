@@ -25,7 +25,7 @@ This repository is the replication package including the source code and the dat
 └── requirements.txt
 ```
 
-## require
+## requirements
 ```
 requirements.txt
 ```

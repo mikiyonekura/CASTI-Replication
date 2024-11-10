@@ -1,2 +1,2 @@
-replication-package/BERT_CNN/pretrained_models/**
-replication-package/CASTI/pretrained_models/**
+replication-package/BERT_CNN/pretrained_models/** filter=lfs diff=lfs merge=lfs -text
+replication-package/CASTI/pretrained_models/** filter=lfs diff=lfs merge=lfs -text
